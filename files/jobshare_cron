@@ -1,0 +1,2 @@
+# Cron for displaying correct jobshare
+*/10 * * * * root /usr/local/bin/condor_jobshare
